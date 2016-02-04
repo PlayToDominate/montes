@@ -1,0 +1,12 @@
+@charset "UTF-8";
+/* CSS Document */
+.MenuItems {
+	position:relative;
+	float:right; 
+	width:627px;
+}
+.Menu_Box {
+	position:relative;
+	left:7px;
+	width:600px;
+}

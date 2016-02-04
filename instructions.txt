@@ -1,0 +1,1 @@
+MySQL version 4.0 databases have been locked as announced. Clicking "Unlock" enables you to edit your MySQL 4.0 databases for another 14 days. During this period, please save your MySQL4.0 databases using phpMyAdmin and create a new MySQL5 database.

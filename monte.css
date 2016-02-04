@@ -1,0 +1,146 @@
+@charset "UTF-8";
+.BodyType {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+.14_B_BodyType {
+	font-size: 14px;
+	font-weight: bold;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+.MenuSidNav {
+	font-size: 14px;
+	font-weight: bold;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: #FFFFFF;
+	padding-top:5px;
+	padding-left:2px;
+	/*	margin-top:15px; */
+}
+.Menu_Item_Header {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 28px;
+	font-weight: bold;
+	text-transform: capitalize;
+	text-align: center;
+	color: #FFFFFF;
+	background-color: #215497;
+}
+.Page_Header {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	font-weight: bold;
+	color: #990000;
+}
+
+.Menu_Items {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+	color: #990000;
+}
+.HighlightBodyType {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #225792;
+	font-weight: bold;
+}
+.BodyType_Food_Warning {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+}
+a.MenuSidNav {
+	font-size: 14px;
+	font-weight: bold;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: #FFFFFF;
+	text-decoration:none;
+}
+.TopNav {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+.Job_Cat {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	color:#225792;
+	font-weight:bold;
+}
+.Job_Title {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight:bold;
+}
+.Job_Description {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+.Job_Wage {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+.Body_container {
+	width: 100%;
+	height:100%;
+	background:url(images/Background_Middle.png) repeat-y center top;
+/*	background: url(images/Bottom_Background.jpg) no-repeat center bottom; */
+}
+.Bottom_bg {
+	width:100%;
+	height:22px;
+	background: url(images/Background_Bottom.png) no-repeat center bottom;
+
+}
+.Top_container {
+	width: 100%;
+	height: 18px;
+	background: url(images/Background_top.png) no-repeat center top;
+}
+.Content_container {
+	width:800px;
+	margin: 0 auto 15px auto;
+/*	background-color:#FFFFFF */
+}
+.Footer {
+	width:800px;
+	border-top:ridge;
+	border-bottom:ridge;
+}
+.Main {
+	width:800px;
+	margin:0 0 0 0;
+}
+.MainVideoPane {
+	width:800px;
+	margin:0 0 0 0;
+}
+.MenuItems {
+	position:relative;
+	float:right; 
+	width:630px;
+	background-color:#FFFFFF;
+}
+.Menu_Box {
+	position:relative;
+	left:7px;
+	width:620px;
+}
+body {
+	background:url(images/Background_nobox.png) repeat-y center top;
+	background-color:#000000;
+}
+.HomeSidebar {
+	margin-top:5px;
+	margin-bottom:5px;
+	width:190px;
+/*	height:458px;*/
+	float:right;
+	border:thin;
+	border-style:ridge;
+	border-color:#000000;
+}
+.HomeSpecials {
+	width:180px;
+	margin: 2px 5px 5px 5px;
+}
+
