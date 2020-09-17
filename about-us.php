@@ -9,6 +9,7 @@ include("includes/dbconnect.php");
 <div id="about-us" data-role="page" data-add-back-btn="true" data-theme="a">
 	<?include 'includes/navigation.php';?>
 	<div id="content" data-role="content">
+		<p>this is only a test</p>
 		<h2>About Monte's Grill &amp; Pub</h2>
 		<p>In 1996 I had the opportunity of purchasing Stampfl's Shortstop from Linus Stampfl, it was the best decision I ever made. I renamed it Short Stop Grill &amp; Pub and proceeded to make it the best food destination in Verona and the West Madison Area. We serve a full menu starting with breakfast at 6:00 am Mon-Fri and 7:00 am on Sat &amp; Sun's. We pride ourselves with our lunch specials and homemade soups daily. Our 10 hr simmered BBQ Ribs are the best in Dane County and our Friday night Fish Fry is the most popular in the area.</p>
 		<p>I have worked hard at making Monte's Grill &amp; Pub (renamed a few years ago) the best &amp; friendliest place in town. With a hometown feeling, all sports fans enjoy being here with 4 plasma TV's, 10 TV's all together, and lots of fun. You will fall in love with the oldest Verona owned Grill &amp; Pub, so please check us out and ask for Monte so I can meet you.</p>
